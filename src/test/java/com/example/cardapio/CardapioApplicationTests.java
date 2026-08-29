@@ -9,5 +9,4 @@ class CardapioApplicationTests {
 	@Test
 	void contextLoads() {
 	}
-
 }

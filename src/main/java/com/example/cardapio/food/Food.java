@@ -10,8 +10,7 @@ import lombok.*;
 @AllArgsConstructor
 @EqualsAndHashCode (of ="id")
 
-public class
-Food {
+public class Food {
     @Id @GeneratedValue(strategy = GenerationType.IDENTITY)
     private long id; // identificar que ela representa o id e é gerada automaticamente
     private String title;
