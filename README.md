@@ -1,14 +1,14 @@
-# 🍽️ Cardápio
+# Cardápio
 
 Aplicação full stack para cadastro e visualização de itens de um cardápio, com front-end em **React + TypeScript** e back-end em **Java + Spring Boot**.
 
-## 📋 Sobre o projeto
+## Sobre o projeto
 
 O Cardápio permite:
 - Visualizar os itens cadastrados (título, imagem e preço) em formato de cards;
 - Cadastrar novos itens através de um modal.
 
-## 🚀 Tecnologias
+## Tecnologias
 
 ### Front-end
 - React
@@ -24,7 +24,7 @@ O Cardápio permite:
 - Flyway (migrations)
 - PostgreSQL
 
-## 📁 Estrutura do projeto
+## Estrutura do projeto
 
 ```
 cardapio/
@@ -60,7 +60,7 @@ cardapio/
 └── pom.xml
 ```
 
-## 📸 Screenshots
+## Screenshots
 
 **Tela principal**
 <img width="964" height="874" alt="Captura de tela 2026-08-29 013513" src="https://github.com/user-attachments/assets/38d616b9-0eb1-4a02-b77e-1d4ba769c42b" />
@@ -68,7 +68,7 @@ cardapio/
 **Cadastro de novo item**
 <img width="811" height="658" alt="Captura de tela 2026-08-29 013522" src="https://github.com/user-attachments/assets/0e812b98-e644-42f8-97ff-82c9ec3bbb34" />
 
-## 🔌 API
+## API
 
 Base URL: `http://localhost:8080`
 
@@ -86,7 +86,7 @@ Base URL: `http://localhost:8080`
 }
 ```
 
-## ⚙️ Como rodar o projeto
+## Como rodar o projeto
 
 ### Pré-requisitos
 - Node.js (v18+)
@@ -109,7 +109,7 @@ npm run dev
 ```
 O front-end vai rodar em `http://localhost:5173` (padrão do Vite).
 
-## 🛣️ Roadmap / melhorias futuras
+##  Melhorias futuras
 
 - [ ] Validação de campos obrigatórios no back-end
 - [ ] Endpoint de edição e remoção de itens
